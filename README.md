@@ -43,7 +43,7 @@ third-party dependencies.
 ### Run
 
 ```bash
-git clone https://github.com/<your-username>/Python-snake-game.git
+git clone https://github.com/Rushikesh-pawar/Python-snake-game.git
 cd Python-snake-game
 python3 snake_game.py
 ```
