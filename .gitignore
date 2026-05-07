@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / cached
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Local game state (persisted high score lives in $HOME, but keep this just in case)
+.snake_high_score.json
